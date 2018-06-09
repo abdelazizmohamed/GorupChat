@@ -17,4 +17,4 @@ Used Libraries :
 -Gradle Retrolambda Plugin
 
 # View project
-[![Udacity](https://www.portfoliobox.net/admin#/groupchatapp) 
+https://www.portfoliobox.net/admin#/groupchatapp
