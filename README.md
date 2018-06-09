@@ -3,11 +3,17 @@
 
 Used Libraries :
 -Google cloud
+
 -Firebase
+
 -ButterKnife
+
 -RxJava
+
 -RxAndroid
+
 -ObservableScrollView
+
 -Gradle Retrolambda Plugin
 
 # Screenshots
