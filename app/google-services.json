@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733065498009",
+    "firebase_url": "https://groupchat-40024.firebaseio.com",
+    "project_id": "groupchat-40024",
+    "storage_bucket": "groupchat-40024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733065498009:android:4122d8312589e70c",
+        "android_client_info": {
+          "package_name": "com.example.hp_lap.gorupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733065498009-m3hdpdenh2bv9tgn2jfn462r1smvupnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp_lap.gorupchat",
+            "certificate_hash": "fa4e5e2a548d7f6470d96820bdaa3b408b7ed73d"
+          }
+        },
+        {
+          "client_id": "733065498009-lcelp2089se0fdv13ke4k3oivfn4ro10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWbam92og55B6up_fnmrzkhg67BAr_9Kk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733065498009-lcelp2089se0fdv13ke4k3oivfn4ro10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Group Chat</string>
+    <string name="send">Send</string>
+    <string name="sign_in_canceled">Sign in Canceled</string>
+    <string name="signed_in">Signed In</string>
+    <string name="chat_text">chat_text</string>
+    <string name="admin_info_name_abdelaziz_moahmed_email_abdel_aziz_m_outlook_com">Admin Info: Name : AbdelAziz Moahmed Email : abdel-aziz.m@outlook.com</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
