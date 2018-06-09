@@ -1,7 +1,8 @@
-# Group Chat App, make users chatting with each other in one group when authenticated by E-mail. 
+## Group Chat App
+make users chatting with each other in one group when authenticated by E-mail. 
 
 
-Used Libraries :
+## Used Libraries :
 -Google cloud
 
 -Firebase
@@ -16,5 +17,5 @@ Used Libraries :
 
 -Gradle Retrolambda Plugin
 
-# View project
+## View project
 https://www.portfoliobox.net/admin#/groupchatapp
