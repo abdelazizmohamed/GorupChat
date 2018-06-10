@@ -7,8 +7,6 @@ make users chatting with each other in one group when authenticated by E-mail.
 
 -Firebase
 
--ButterKnife
-
 -RxJava
 
 -RxAndroid
@@ -18,4 +16,4 @@ make users chatting with each other in one group when authenticated by E-mail.
 -Gradle Retrolambda Plugin
 
 ## View project
-https://www.portfoliobox.net/admin#/groupchatapp
+https://abdelaziz122.portfoliobox.net/groupchatapp
